@@ -1,3 +1,3 @@
 # Demo-
-my first repository in GitHub 
+my first repository in GitHub. 
 Author Anish Chand 
